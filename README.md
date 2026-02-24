@@ -5,7 +5,7 @@
 # 🚀 Bharathan A C S  
 ### Full Stack Developer  
 
-<a href="protfolio-navy-kappa.vercel.app">
+<a href="https://protfolio-navy-kappa.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge"/>
 </a>
 
@@ -115,7 +115,7 @@
   <a href="https://leetcode.com/u/BharathanACS/">
     <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.hackerrank.com/profile/bharathan445">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
